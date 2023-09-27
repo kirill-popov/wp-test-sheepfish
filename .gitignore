@@ -1,4 +1,5 @@
 /.idea
 /project/wp-content/uploads/*
 /db/*
+debug.log
 !README.md
