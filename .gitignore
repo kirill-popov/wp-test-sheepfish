@@ -1,0 +1,4 @@
+/.idea
+/project/wp-content/uploads/*
+/db/*
+!README.md
